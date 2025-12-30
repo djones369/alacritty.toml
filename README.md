@@ -1,1 +1,1 @@
-My alacritty config
+My alacritty config with catppuccin-mocha theme
